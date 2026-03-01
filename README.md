@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nisweesi)
+
 ## print("Hello world, this is Nadir")
 
 - Currently learning new skills and pushing myself outside of my comfort zone.
